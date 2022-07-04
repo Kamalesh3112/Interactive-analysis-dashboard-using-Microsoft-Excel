@@ -31,3 +31,5 @@ BI assists in organizing and structuring strategic planning to build sustainable
 
 * Fundamental goals to be achieved by the organizations
 * Creating strategies to meet the intent
+
+The data used here is Company_KPI which is uploaded and can be viewed from the above repositery derictory.
