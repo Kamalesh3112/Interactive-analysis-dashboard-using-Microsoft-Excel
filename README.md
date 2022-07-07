@@ -33,3 +33,7 @@ BI assists in organizing and structuring strategic planning to build sustainable
 * Creating strategies to meet the intent
 
 The data used here is Company_KPI which is uploaded and can be viewed from the above repositery derictory.
+
+#### Contributors
+> Kamalesh Selvaraj
+>, Shreya Bodla
